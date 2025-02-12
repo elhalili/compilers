@@ -1,5 +1,5 @@
-#ifndef KLD_LEXER_H
-#define KLD_LEXER_H
+#ifndef KLD_AST_H
+#define KLD_AST_H
 #include <algorithm>
 #include <memory>
 #include <string>
