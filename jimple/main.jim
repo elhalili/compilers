@@ -1,0 +1,7 @@
+fn foo(): num {
+return 11;
+}
+
+fn main(): num {
+  return foo();
+}
